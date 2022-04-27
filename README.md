@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <strong><a href="https://twitter.com/EmediongSamuel11">Twitter</a><rong> |
+  <strong><a href="https://twitter.com/EmediongSamue11">Twitter</a><rong> |
+    <strong><a href= reach me via "emediongsamuel07@gmail.com"</a><rong> |
   
   <strong>Hey! Check out my articles on <a href="https://medium.com/@emediongsamuel07">Medium</a></strong>
+      <strong>I’m looking to collaborate with more developers on different projects in the DevOps community.
 </p>
 
 <p align="center">❤ I'm currently working with a team of wonderful DevOps engineers in leading development and operations processes.</p>
