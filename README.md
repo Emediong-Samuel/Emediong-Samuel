@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Emediong-Samuel"><img src="https://github-readme-stats.vercel.app/api?username=Emediong-Samuel&hide_border=true&show_icons=true" alt="github stats"></a>
-  <a href="https://github.com/Emediong-Samuel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emediong-Samuel&hide_border=true&show_icons=true" alt="Emediong-Samuel's most used languages"></a>
+  <a href="https://github.com/Emediong-Samuel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emediong-Samuel&hide_border=true&show_icons=true" alt="Emediong-Samuel's most used languages python"></a>
 <!--
 **Emediong-Samuel/Emediong-Samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <strong><a href="https://twitter.com/Emediong Samuel">Twitter</a><rong> |
+  <strong><a href="https://twitter.com/EmediongSamuel11">Twitter</a><rong> |
   
   <strong>Hey! Check out my articles on <a href="https://medium.com/@emediongsamuel07">Medium</a></strong>
 </p>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with more developers on different projects in the DevOps community.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Any Tech /cloud/AWS/Git/terraform and more.
-- 📫 How to reach me: ...email-emediongsamuel07@gmail.com / Telegram:-Emediong Samuel
+#- 📫 How to reach me: ...email-emediongsamuel07@gmail.com / Telegram:-Emediong Samuel
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...like to play table tennis ,Jokes and  music as well to keep me going
 -->
