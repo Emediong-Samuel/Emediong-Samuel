@@ -1,4 +1,4 @@
-
+## hi, i'm EMEDIONG SAMUEL
 - 🔭 I’m currently working with a team of wonderful DevOps engineers in leading development and operations processes.
 - 🌱 I’m currently learning more ways to improve the entire DevOps practice using different tools.
 - 👯 I’m looking to collaborate with more developers on different projects in the DevOps community.
