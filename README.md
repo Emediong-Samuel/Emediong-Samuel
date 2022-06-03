@@ -6,5 +6,5 @@
 - 💬 Ask me about ...Any Tech/cloud/AWS/Git/terraform and more.
 - 📫 How to reach me: ..email-emediongsamuel07@gmail.com / Telegram:-Emediong Samuel
 
-- ⚡ Fun fact: ...like to play table tennis ,Jokes and  music as well to keep me going.
+- ⚡ Fun fact: ...like to play table tennis.
 -->
