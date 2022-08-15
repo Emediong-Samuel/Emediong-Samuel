@@ -1,18 +1,5 @@
-### Hi there 👋
-
-<!--
-**Emediong-Samuel/Emediong-Samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working with a team of wonderful DevOps engineers in leading development and operations processes
-- 🌱 I’m currently learning more ways to improve the entire DevOps practice using different tools
-- 👯 I’m looking to collaborate  with more developers on different projects in the DevOps community
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Any Tech/cloud/AWS/Git/terraform and more
-- 📫 How to reach me: ...email-emediongsamuel07@gmail.com / Telegram:-Emediong Samuel
-- ⚡ Fun fact: ... I enjoy playing table tennis
--->
+# 💫 About Me:
+ I’m currently working with a team of wonderful DevOps engineers in leading development and operations processes.<br>I’m equally learning more ways to improve the entire DevOps practice using different tools<br> I’m looking to collaborate with more developers on different projects in the DevOps community.<br> Ask me about ...Any Tech/cloud/AWS/Git/terraform and more.<br>How to reach me: ..email-emediongsamuel07@gmail.com / Telegram:-Emediong Samuel<br>Fun fact: ...like to play table tennis. --><br><br><br>
 
 
 ## 🌐 Socials:
@@ -21,15 +8,12 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Emediong-Samuel&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Emediong-Samuel&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emediong-Samuel&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Emediong-Samuel&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Emediong-Samuel&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emediong-Samuel&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Emediong-Samuel&icon=0&color=0)](https://visitcount.itsvg.in)
