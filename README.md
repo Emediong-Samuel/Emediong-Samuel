@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working with a team of wonderful DevOps engineers in leading development and operations processes.<br>I’m equally learning more ways to improve the entire DevOps practice using different tools<br> I’m looking to collaborate with more developers on different projects in the DevOps community.<br> Ask me about ...Any Tech/cloud/AWS/Git/terraform and more.<br>How to reach me: ..email-emediongsamuel07@gmail.com / Telegram:-Emediong Samuel<br>Fun fact: ...like to play table tennis. --><br><br><br>
+ I’m currently working with a team of wonderful DevOps engineers in leading development and operations processes.<br>I’m equally learning more ways to improve the entire DevOps practice using different tools<br> I’m also looking to collaborate with more developers on different projects in the DevOps community.<br> Ask me about ...Any Tech/cloud/AWS/Git/terraform and more.<br>How to reach me: ..email-emediongsamuel07@gmail.com / Telegram:-Emediong Samuel<br>Fun fact: ...like to play table tennis. --><br><br><br>
 
 
 ## 🌐 Socials:
