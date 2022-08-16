@@ -1,6 +1,8 @@
 # 💫 About Me:
- I’m Emediong Samuel, I work with a team of wonderful DevOps engineers in leading development and operations processes..<br>Fun fact: ...like to play table tennis. --><br><br><br>
- #### A cool qoute i love: "Google and Stack Overflow are great sources of opinions and information, but they’re no substitute for actual human experience.”
+ Hi, I’m Emediong Samuel, I work with a team of wonderful DevOps engineers in leading development and operations processes..<br>Fun fact: ...like to play table tennis. --><br><br><br>
+ I am passionate about **coding**, **technical writing**, building, and automating **DevOps** practices for more quality and flexible work experience. Over time I have consistently updated my skill set and functioned in different technological environments that have exposed me to knowledge of how to write/run code as well as participate in moving software from ideas to actualization using different tools and concepts.
+
+ #### A cool qoute i love: *"Google and Stack Overflow are great sources of opinions and information, but they’re no substitute for actual human experience.”*
 
 
 ## 🌐 Socials:
