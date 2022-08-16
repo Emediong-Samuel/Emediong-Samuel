@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m Emediong Samuel, I work with a team of wonderful DevOps engineers in leading development and operations processes..<br>How to reach me: ..email-emediongsamuel07@gmail.com / Telegram:-Emediong Samuel<br>Fun fact: ...like to play table tennis. --><br><br><br>
+ I’m Emediong Samuel, I work with a team of wonderful DevOps engineers in leading development and operations processes..<br>Fun fact: ...like to play table tennis. --><br><br><br>
  #### A cool qoute i love: "Google and Stack Overflow are great sources of opinions and information, but they’re no substitute for actual human experience.”
 
 
